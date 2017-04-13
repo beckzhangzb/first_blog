@@ -1,0 +1,31 @@
+一、Markdown
+Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式（即所谓的模板）。
+Markdown具有一系列衍生版本，用于扩展Markdown的功能（如表格、脚注、内嵌HTML等等），这些功能原初的Markdown尚不具备，它们能让Markdown转换成更多的格式，
+例如LaTeX，Docbook。Markdown增强版中比较有名的有Markdown Extra、MultiMarkdown、 Maruku等。
+这些衍生版本要么基于工具，如Pandoc；要么基于网站，如GitHub和Wikipedia，在语法上基本兼容，但在一些语法和渲染效果上有改动。
+
+此处的".md" 后缀文件，是markdown文件的缩写
+
+二、RubyGem
+RubyGems.org 是 Ruby 社区的 Gem 托管服务。
+让你能便捷、快速的发布、管理你的 Gem 以及安装它们。提供 API 查阅可用 Gem 的详细资料。
+参与进来成为一个贡献者，用你的能力推动社区进步。
+
+三、theme of Minima
+In the case of Minima, you see only the following files in your Jekyll site directory:
+
+├── Gemfile
+├── Gemfile.lock
+├── _config.yml
+├── _posts
+│   └── 2016-12-04-welcome-to-jekyll.markdown
+├── about.md
+└── index.md
+The Gemfile and Gemfile.lock files are used by Bundler to keep track of the required gems and gem versions you need to build your Jekyll site.
+
+
+四、YML 文件
+.yml 文件是什么？ YML文件格式是YAML (YAML Aint Markup Language)编写的文件格式，YAML是一种直观的能够被电脑识别的的数据序列化格式，并且容易被人类阅读，
+容易和脚本语言交互的，可以被支持YAML库的不同的编程语言程序导入，比如： C/C++, Ruby, Python, Java, Perl, C#, PHP等。
+
+
